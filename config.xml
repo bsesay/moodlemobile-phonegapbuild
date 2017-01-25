@@ -5,10 +5,10 @@
         id        = "com.elearning.leoneconnect"
         versionCode = "20160"
         version   = "3.2.0">
-    <name>Leone Connect Mobile Elearning</name>
+    <name>Leone Connect Mobile Learning</name>
 
     <description>
-        Leone Connect Mobile Elearning App
+        Leone Connect Mobile Learning App
     </description>
 
     <author href="http://leoneconnect.com" email="contact@leoneconnect.com">
